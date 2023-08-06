@@ -1,4 +1,4 @@
-#Sales Analysis Insights using Power BI
+Sales Analysis Insights using Power BI
 ======================================
 
 Tools used: Power BI, Power Query, DAX
