@@ -94,5 +94,10 @@ Creating Slicers for Date, City, Product, and Channel. This will enable us to in
 Adding Tooltip to view the insights like total sales, total profit, and top 5 cities for a particular product, channel, or customer when we hover over that particular column.
 
 ![Tooltip](https://lh6.googleusercontent.com/1QJOHpDg5q14T0ckQapeNvEs4GqrdrzIHlHFR58XpDPbHxvW1bPJxjZZr9KNNJiEOoQFsB6v2WHXfgP8p2Pq2fAtwPAinsC9vjpczql7s8BEKUFLscLdJZrUXDP1RjcEfPiUUrSzJqmPTFTn5vX8y9Y)
+
+Final Dashboard
+---------------
+
+![](https://lh3.googleusercontent.com/frFNcpeYCjqwBGb1cEPfpUcWSgCXiMkwV-wMcr9mLMdjP1IBXfQxl0njeGL6EvAhFlG3j3mhRiZApcuG7MH2l9yrE_-iky6Nthn5xj4D0kpSaw6jNmkLLc-MeNNmRQ0mpryWsEyc1jHU6wHEekhWaRI)
 ------------
 So, this is the end of the project explanation. Do connect with me on [Linkedin](https://www.linkedin.com/in/mandeepdebnath/)
